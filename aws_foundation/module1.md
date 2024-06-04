@@ -1,15 +1,21 @@
 ### CLOUD CONCEPT OVERVIEW
 ###### This module addresses the following topics:
 •Introduction to cloud computing
+
 •Advantages of cloud computing
+
 •Introduction to Amazon Web Services (AWS)
+
 •AWS Cloud Adoption Framework (AWS CAF)
 
 ###### Module objectives
 After completing this module, you should be able to:
 •Define different types of cloud computing modelS
+
 •Describe six advantages of cloud computing
+
 •Recognize the main AWS service categories and core services
+
 •Review the AWS Cloud Adoption Framework (AWS CAF)
 
 ##### Cloudcomputing
@@ -37,7 +43,11 @@ Services in this category provide you with a completed product that the service 
 
 ##### Advantage of cloud computing
   1.Trade capital expense for variable expense
+
   2.Benefit from massive economies of scale
+
   3.Stop guessing capacity•Increase speed and agility
+
   4.Stop spending money on running and maintaining data centers
+
   5.Go global in minutes
